@@ -28,6 +28,6 @@ Repositories
 *   [ascop - simple sed// type CLI to remove non-ASCII characters from text files, with configurabiilty/presets](https://github.com/scottvr/ascop)
 *   [GENISO - Pure python, no external dependencies, create ISO image from ZIP file](https://github.com/scottvr/GENISO) ([In response to this article: ](https://open.substack.com/pub/jslegenddev/p/you-can-now-make-ps2-games-in-javascript?utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=179927111))
 *   [pi-ina233 - Python I2Ci/SMBus driver for the TI INA233 current sensor.](https://github.com/scottvr/pi-ina233)
-[gh\_discussions\_mass\_enable - Enable/Disable GitHub Discussions en masse,, since GH REST and GraphQL APIs do not allow for it..](https://github.com/scottvr/gh_discussions_mass_enable)*   [fambigen - Procedural ambigram generation and vector font glyph mash-up tool.](https://github.com/scottvr/fambigen)
+*   [gh\_discussions\_mass\_enable - Enable/Disable GitHub Discussions en masse, since GH REST and GraphQL APIs do not allow for it..](https://github.com/scottvr/gh_discussions_mass_enable)*   [fambigen - Procedural ambigram generation and vector font glyph mash-up tool.](https://github.com/scottvr/fambigen)
 
 [Google Scholar](https://scholar.google.com/citations?user=fDaWwugAAAAJ&hl=en) [LinkedIn](https://linkedin.com/in/scottvr) [Medium](https://medium.com/@scott.vr) [academia.edu](https://independent.academia.edu/ScottVR)
